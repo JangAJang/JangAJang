@@ -1,7 +1,7 @@
 <div align="center">
 
 ## 🙋🏻‍ ️About me
-<p>안녕하세요.<br>항상 '그래서' 라는 단어를 생각하는 이장희입니다. <br>자바를 이용하 백엔드르 공부하고 있습니다.</p>
+<p>항상 '그래서' 라는 단어를 생각하는 이장희입니다. <br>자바를 이용하 백엔드르 공부하고 있습니다.</p>
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:janghee5395@gmail.com)
 [![Blog](https://img.shields.io/badge/TistoryBlog-gray?style=flat-square)](https://jangsarchive.tistory.com)
