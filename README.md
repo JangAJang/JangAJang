@@ -28,3 +28,11 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=janghee5395)](https://solved.ac/profile/janghee5395)
 
 </div>
+
+<div align="center">
+ 
+ ## 💪 Stats
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangAJang&theme=dark&show_icons=true)
+ 
+ </div>
