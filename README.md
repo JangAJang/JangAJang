@@ -2,8 +2,7 @@
 
 ## 🫡 ️About me
 <p>항상 '그래서' 라는 단어를 생각하는 이장희입니다.
-     <br>자바를 이용한 백엔드를 공부하고 있습니다.
-     <br>자바스크립트, 타입스크립트를 공부하고 있습니다.
+     <br>자바(스프링), TS(nestjs)를 이용한 백엔드 학습을 하고 있습니다. 
 </p>
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:janghee5395@gmail.com)
