@@ -11,7 +11,7 @@
  <br>
 
 <div align="center">
-## 🖥️ Skills
+🖥️ Skills
 
 ### Backend
 [![Java](https://img.shields.io/badge/Java-teal?style=flat-square&logo=Java&logoColor=white)](#)
